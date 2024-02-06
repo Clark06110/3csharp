@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/3CSharpProj.WebApi.props" />
+</Project>

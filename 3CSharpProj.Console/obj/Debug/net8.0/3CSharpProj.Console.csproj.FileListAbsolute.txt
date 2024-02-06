@@ -1,0 +1,14 @@
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/bin/Debug/net8.0/3CSharpProj.Console
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/bin/Debug/net8.0/3CSharpProj.Console.deps.json
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/bin/Debug/net8.0/3CSharpProj.Console.runtimeconfig.json
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/bin/Debug/net8.0/3CSharpProj.Console.dll
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/bin/Debug/net8.0/3CSharpProj.Console.pdb
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.AssemblyInfoInputs.cache
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.AssemblyInfo.cs
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.csproj.CoreCompileInputs.cache
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.dll
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/refint/3CSharpProj.Console.dll
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.pdb
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/3CSharpProj.Console.genruntimeconfig.cache
+/Users/clementmartel/Desktop/Cours/3C#/3CSharpProj/3CSharpProj.Console/obj/Debug/net8.0/ref/3CSharpProj.Console.dll
