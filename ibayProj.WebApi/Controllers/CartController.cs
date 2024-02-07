@@ -20,10 +20,12 @@ public class CartController(IBayContext ctx) : ControllerBase
     [HttpPost, Route("/carts")]
     public IActionResult PostCart(Cart cart)
     {
-        _cartRepository?.Add(cart);
-        _cartRepository?.SaveChanges();
+        _cartRepository.Add(cart);
+        _cartRepository.SaveChanges();
 
         return CreatedAtAction("GetCart", new { id = cart.Id }, cart);
     }
+    
+    
 
 }

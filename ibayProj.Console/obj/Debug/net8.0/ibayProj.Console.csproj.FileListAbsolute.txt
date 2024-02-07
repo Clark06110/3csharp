@@ -93,3 +93,4 @@
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Console/obj/Debug/net8.0/ibayProj.Console.pdb
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Console/obj/Debug/net8.0/ibayProj.Console.genruntimeconfig.cache
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Console/obj/Debug/net8.0/ref/ibayProj.Console.dll
+/Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Console/obj/Debug/net8.0/ibayProj.Console.sourcelink.json

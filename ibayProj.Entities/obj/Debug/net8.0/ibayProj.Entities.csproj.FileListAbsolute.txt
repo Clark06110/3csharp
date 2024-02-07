@@ -138,3 +138,4 @@
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Entities/bin/Debug/net8.0/ibayProj.Console
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Entities/bin/Debug/net8.0/ibayProj.Console.dll
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Entities/bin/Debug/net8.0/ibayProj.Console.pdb
+/Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.Entities/obj/Debug/net8.0/ibayProj.Entities.sourcelink.json

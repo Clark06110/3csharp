@@ -153,3 +153,4 @@
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.WebApi/bin/Debug/net8.0/ibayProj.Console
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.WebApi/bin/Debug/net8.0/ibayProj.Console.dll
 /Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.WebApi/bin/Debug/net8.0/ibayProj.Console.pdb
+/Users/clementmartel/Desktop/Cours/3C#/ibayProj/ibayProj/ibayProj.WebApi/obj/Debug/net8.0/ibayProj.WebApi.sourcelink.json

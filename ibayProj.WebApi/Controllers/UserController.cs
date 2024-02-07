@@ -19,6 +19,12 @@ namespace ibayProj.WebApi.Controllers
     {
 
         private readonly UserRepository _userRepository = new(ctx);
+
+        [HttpGet, Route("/users")]
+        public ActionResult<IEnumerable<User>> GetUsers()
+        {
+            return Ok(_userRepository.GetAll());
+        }
         
         [HttpPost("register")]
         public async Task<ActionResult> Register([FromBody] RegisterModel registerModel)
