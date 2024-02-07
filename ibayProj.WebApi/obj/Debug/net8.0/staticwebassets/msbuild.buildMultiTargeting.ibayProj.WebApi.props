@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ibayProj.WebApi.props" />
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibayProj.WebApi", "ibayProj.WebApi\ibayProj.WebApi.csproj", "{DB230C67-A721-4BBA-AC4E-CFBFB2379106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibayProj.Entities", "ibayProj.Entities\ibayProj.Entities.csproj", "{5E1C2855-79A7-4ABA-AC71-A6D5385916A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ibayProj.Console", "ibayProj.Console\ibayProj.Console.csproj", "{32B10C01-CAD5-454D-9937-3EE68BF8C8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB230C67-A721-4BBA-AC4E-CFBFB2379106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB230C67-A721-4BBA-AC4E-CFBFB2379106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB230C67-A721-4BBA-AC4E-CFBFB2379106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB230C67-A721-4BBA-AC4E-CFBFB2379106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1C2855-79A7-4ABA-AC71-A6D5385916A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1C2855-79A7-4ABA-AC71-A6D5385916A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1C2855-79A7-4ABA-AC71-A6D5385916A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1C2855-79A7-4ABA-AC71-A6D5385916A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B10C01-CAD5-454D-9937-3EE68BF8C8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B10C01-CAD5-454D-9937-3EE68BF8C8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B10C01-CAD5-454D-9937-3EE68BF8C8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B10C01-CAD5-454D-9937-3EE68BF8C8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
